@@ -4,7 +4,7 @@
 
 
 [![Generic badge](https://img.shields.io/badge/Lua-blue.svg)](https://www.lua.org/) *
-[![Generic badge](https://img.shields.io/badge/C/C++-blue.svg)](https://www.lua.org/) *
+[![Generic badge](https://img.shields.io/badge/Typescript-blue.svg)](https://www.typescriptlang.org/) *
 [![Generic badge](https://img.shields.io/badge/Javascript-yellow.svg)](https://www.javascript.com/) *
 [![made-with-python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
 
